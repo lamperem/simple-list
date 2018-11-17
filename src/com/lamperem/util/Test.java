@@ -1,4 +1,4 @@
-package com.glopez.util;
+package com.lamperem.util;
 
 public class Test {
 

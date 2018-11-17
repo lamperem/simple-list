@@ -1,4 +1,4 @@
-package com.glopez.util;
+package com.lamperem.util;
 
 /**
  * Class to define the operation that a list would to be have

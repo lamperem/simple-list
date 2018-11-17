@@ -5,4 +5,4 @@
  * @author gustavo
  *
  */
-package com.glopez.util;
+package com.lamperem.util;
